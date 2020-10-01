@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=Main_Shield.SchDoc
+Record=SheetSymbol|SourceDocument=Main_Shield.SchDoc|Designator=LED_Controllers|SchDesignator=LED_Controllers|FileName=LED_Controler.SchDoc|SymbolType=Normal|RawFileName=LED_Controler.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
